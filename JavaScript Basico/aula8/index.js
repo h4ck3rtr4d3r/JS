@@ -1,5 +1,5 @@
 /*
-Felipe Oliveira Silva tem 39 anos, pesa 72kg tem 1.70 de altura e seu IMC é de 17.42
+H4ck3rtr4d3r tem 39 anos, pesa 72kg tem 1.70 de altura e seu IMC é de 17.42
 */
 
 const nome = 'H4ck3r';
