@@ -1,0 +1,1 @@
+const confirma1 = confirm('Realmente deseja apagar?');
